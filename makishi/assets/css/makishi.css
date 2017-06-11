@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+
+#wrapper {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+
+h1 {
+    font-size: 130%;
+}
